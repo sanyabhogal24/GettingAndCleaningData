@@ -57,7 +57,7 @@ There are 5 parts:
 
 
 
-How run_analysis.R implements the above steps:
+##How run_analysis.R implements the above steps:
 - Require reshape2 and data.table librareis.
 - Load both test and train data
 - Load the features and activity labels.
